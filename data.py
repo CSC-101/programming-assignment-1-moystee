@@ -112,7 +112,6 @@ class Circle:
                 self.center == other.center and
                 math.isclose(self.radius, other.radius))
 
-
 # Representation of a book.
 class Book:
     # Initialize a new Book object.
